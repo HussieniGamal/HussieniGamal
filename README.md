@@ -4,20 +4,21 @@
 
 <h1 align="center">Hi 👋, I'm Hussieni Gamal</h1>
 
-<h3 align="center">
-Data Analyst | Power BI Developer | Python | SQL | Excel
-</h3>
+<h3 align="center">Data Analyst | Business Intelligence | Power BI | SQL | Python | Excel</h3>
 
 <p align="center">
-Transforming Raw Data into Actionable Business Insights
+Turning raw data into clear insights, interactive dashboards, and better business decisions.
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/hussieni-gamal-549b68134">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  <a href="https://www.linkedin.com/in/hussieni-gamal-549b68134/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  <a href="https://github.com/HussieniGamal">
-    <img src="https://img.shields.io/badge/GitHub-View_Profile-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://sites.google.com/view/hussienigamal/home">
+    <img src="https://img.shields.io/badge/Portfolio-View_Projects-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://github.com/HussieniGamal?tab=repositories">
+    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
 </p>
 
@@ -25,37 +26,40 @@ Transforming Raw Data into Actionable Business Insights
 
 ## 👨‍💻 About Me
 
-I'm a **Data Analyst** with a professional background in pharmacy operations and business performance analysis.
+I'm a **Data Analyst and Business Intelligence enthusiast** focused on transforming operational and business data into practical, decision-ready insights.
 
-I transform raw data into meaningful insights, interactive dashboards, and practical business recommendations using **Python, SQL, Power BI, and Excel**.
+My work combines **Power BI, Excel, SQL, and Python** to build analytical solutions for sales, operations, supply chain, healthcare, and business performance.
 
-My portfolio focuses on solving real-world challenges across healthcare, retail, sales, and operational analytics.
+I focus on the full analytics workflow:
+
+- Data cleaning and transformation
+- Data modeling and KPI design
+- DAX and business logic
+- Exploratory data analysis
+- Interactive dashboard development
+- Insight generation and stakeholder recommendations
+
+I also bring a professional background in **pharmacy operations**, which helps me approach analytics from a real business and operational perspective.
 
 ---
 
 ## 🛠️ Tech Stack
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+</p>
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black">
-<img src="https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white">
-
-<br>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white">
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white">
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge">
-<img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge">
-<img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge&logoColor=black">
-
-<br>
-
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white">
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
-
+<p align="center">
+  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge" alt="DAX">
+  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge" alt="Power Query">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
 </p>
 
 ---
@@ -66,17 +70,42 @@ My portfolio focuses on solving real-world challenges across healthcare, retail,
 <tr>
 <td width="50%" valign="top">
 
+### 🚚 Supply Chain Analysis Dashboard
+
+A six-page Power BI dashboard covering **sales, inventory, suppliers, manufacturing, and logistics**.
+
+**Highlights**
+- 100 SKU operational analysis
+- Revenue and sales performance
+- Stockout vs. overstock risk detection
+- Supplier lead time and quality analysis
+- Manufacturing performance
+- Shipping and route cost analysis
+- Business recommendations for stakeholders
+
+**Tools**
+
+`Power BI` `DAX` `Power Query` `Excel`
+
+<br>
+
+<a href="https://github.com/HussieniGamal/Supply-Chain-PowerBI-Analysis">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Supply Chain Project">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
 ### 💊 Pharmacy Sales Analysis
 
-Python exploratory data analysis project examining approximately six years of pharmacy sales data.
+Python exploratory analysis of multi-year pharmacy sales data to uncover commercial and operational patterns.
 
-**Key Work**
-
+**Highlights**
 - Data cleaning and preparation
 - Feature engineering
 - Monthly and yearly trends
-- Drug category performance
-- Hourly and weekday analysis
+- Product category analysis
+- Weekday and hourly patterns
 - Correlation analysis
 - Business recommendations
 
@@ -87,25 +116,26 @@ Python exploratory data analysis project examining approximately six years of ph
 <br>
 
 <a href="https://github.com/HussieniGamal/Pharmacy-Sales-Analysis-Python">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Pharmacy Project">
 </a>
 
 </td>
+</tr>
 
+<tr>
 <td width="50%" valign="top">
 
 ### 🔧 Repair & Return Operations Dashboard
 
-Interactive Power BI solution for monitoring repair operations, turnaround times, bottlenecks, and pending items.
+Power BI solution for monitoring repair operations, turnaround times, bottlenecks, pending cases, and operational performance.
 
-**Key Work**
-
-- Operational KPI tracking
+**Highlights**
+- KPI tracking
 - Repair cycle analysis
 - Aging and bottleneck analysis
-- Forecast versus actual trends
+- Forecast vs. actual performance
 - Supplier and department analysis
-- Interactive filters and navigation
+- Interactive navigation and filters
 
 **Tools**
 
@@ -114,27 +144,23 @@ Interactive Power BI solution for monitoring repair operations, turnaround times
 <br>
 
 <a href="https://github.com/HussieniGamal/PowerBi-Repair-Return-Operations-Dashboard">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repair and Return Project">
 </a>
 
 </td>
-</tr>
-
-<tr>
 <td width="50%" valign="top">
 
 ### 🏥 HMC Hospital Dashboard
 
-Healthcare analytics dashboard created to monitor patient activity, medical departments, and hospital performance.
+Healthcare analytics dashboard focused on patient activity, departments, diagnoses, procedures, and hospital performance.
 
-**Key Work**
-
+**Highlights**
 - Patient analysis
-- Diagnosis and procedure insights
 - Department performance
+- Diagnosis and procedure insights
 - Doctor and surgery analysis
-- Healthcare KPI reporting
-- Interactive visualizations
+- Healthcare KPIs
+- Interactive reporting
 
 **Tools**
 
@@ -143,34 +169,7 @@ Healthcare analytics dashboard created to monitor patient activity, medical depa
 <br>
 
 <a href="https://github.com/HussieniGamal/HMC-Hospital-Dashboard">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🛋️ Furniture Sales Dashboard
-
-Business intelligence dashboard analyzing furniture sales, regional performance, and product profitability.
-
-**Key Work**
-
-- Sales performance tracking
-- Regional comparison
-- Product category analysis
-- Profit and revenue insights
-- Interactive slicers
-- Executive KPI overview
-
-**Tools**
-
-`Power BI` `Excel` `DAX` `Power Query`
-
-<br>
-
-<a href="https://github.com/HussieniGamal/Furniture-Sales-Dashboard">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="HMC Project">
 </a>
 
 </td>
@@ -179,50 +178,35 @@ Business intelligence dashboard analyzing furniture sales, regional performance,
 <tr>
 <td width="50%" valign="top">
 
-### 🛒 Younes Store Sales Dashboard
+### 🛋️ Furniture Sales Dashboard
 
-Retail analytics dashboard developed to evaluate store performance, products, customers, and sales trends.
-
-**Key Work**
-
-- Revenue and sales KPIs
-- Product performance
-- Customer insights
-- Time-based analysis
-- Interactive reporting
-- Business recommendations
+Business intelligence dashboard analyzing furniture sales, regional performance, categories, and profitability.
 
 **Tools**
 
-`Power BI` `Excel` `DAX` `Power Query`
+`Power BI` `DAX` `Power Query` `Excel`
+
+<br>
+
+<a href="https://github.com/HussieniGamal/Furniture-Sales-Dashboard">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Furniture Project">
+</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🛒 Younes Store Sales Dashboard
+
+Retail analytics dashboard built to evaluate store performance, products, customers, and sales KPIs.
+
+**Tools**
+
+`Power BI` `DAX` `Power Query` `Excel`
 
 <br>
 
 <a href="https://github.com/HussieniGamal/Younes-Store-Sales-Dashboard">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📈 More Projects Coming Soon
-
-I am continuously building practical data analytics projects using real-world datasets.
-
-Current learning and development areas include:
-
-- Advanced SQL
-- Python automation
-- Statistical analysis
-- Data modeling
-- Business intelligence
-- End-to-end analytics projects
-
-<br>
-
-<a href="https://github.com/HussieniGamal?tab=repositories">
-  <img src="https://img.shields.io/badge/View_All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Younes Store Project">
 </a>
 
 </td>
@@ -231,49 +215,49 @@ Current learning and development areas include:
 
 ---
 
-## 🎯 What I Do
+## 📊 What I Bring to Analytics Projects
 
-- Clean and transform complex datasets
-- Build interactive Power BI dashboards
-- Analyze business and operational performance
-- Develop KPI measurement frameworks
-- Identify trends, patterns, and bottlenecks
-- Translate analysis into actionable recommendations
-- Present insights through clear data storytelling
+- Business-focused KPI design
+- Clean and user-friendly dashboards
+- Strong Power BI and Excel reporting
+- DAX-based analytical logic
+- Operational and performance analysis
+- Clear recommendations, not just visualizations
+- Data storytelling for stakeholders
 
 ---
 
-## 📚 Currently Learning
+## 🎯 Current Focus
 
-- Advanced SQL
-- Python for Data Analysis
-- Statistical Analysis
-- Data Modeling
+- Advanced Power BI and DAX
+- SQL for analytics
+- Python for data analysis and automation
+- Data modeling
 - Microsoft Fabric
-- End-to-End Analytics Workflows
+- End-to-end BI portfolio projects
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Portfolio & Contact
 
 <p align="center">
-
-<a href="https://www.linkedin.com/in/hussieni-gamal-549b68134">
-  <img src="https://img.shields.io/badge/LinkedIn-Hussieni_Gamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
-
-<a href="https://github.com/HussieniGamal">
-  <img src="https://img.shields.io/badge/GitHub-HussieniGamal-181717?style=for-the-badge&logo=github&logoColor=white">
-</a>
-
+  <a href="https://sites.google.com/view/hussienigamal/home">
+    <img src="https://img.shields.io/badge/Portfolio-Hussieni_Gamal-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
+  </a>
+  <a href="https://www.linkedin.com/in/hussieni-gamal-549b68134/">
+    <img src="https://img.shields.io/badge/LinkedIn-Hussieni_Gamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:hgtawil@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <b>Thank you for visiting my profile!</b>
+  <b>Open to Data Analyst, BI Analyst, Power BI, Reporting, and Operations Analytics opportunities.</b>
 </p>
 
 <p align="center">
-  If you find one of my projects useful, feel free to give the repository a ⭐
+If you find a project useful, feel free to explore the repository and leave a ⭐
 </p>
