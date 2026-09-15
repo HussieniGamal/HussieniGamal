@@ -1,263 +1,49 @@
-<p align="center">
-  <img src="./banner.png" width="100%" alt="Hussieni Gamal Data Analyst Banner">
-</p>
+# Hussieni Gamal
+### Data Analyst | Business Intelligence | Power BI
 
-<h1 align="center">Hi 👋, I'm Hussieni Gamal</h1>
+I build dashboards and analytical workflows that help teams investigate inventory risk, operational delays, and sales patterns. My background in pharmacy operations informs the business questions I ask.
 
-<h3 align="center">Data Analyst | Business Intelligence | Power BI | SQL | Python | Excel</h3>
+[Portfolio](https://sites.google.com/view/hussienigamal/home) · [LinkedIn](https://www.linkedin.com/in/hussieni-gamal-549b68134/) · [Email](mailto:hgtawil@gmail.com)
 
-<p align="center">
-Turning raw data into clear insights, interactive dashboards, and better business decisions.
-</p>
+## Selected projects
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/hussieni-gamal-549b68134/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://sites.google.com/view/hussienigamal/home">
-    <img src="https://img.shields.io/badge/Portfolio-View_Projects-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://github.com/HussieniGamal?tab=repositories">
-    <img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  </a>
-</p>
+### 1. Supply Chain — Inventory and supplier priorities
+Analyzed **100 SKUs** and flagged **21 potential stockout** and **25 potential overstock** cases using relative stock and sales benchmarks. Supports replenishment reviews and supplier follow-up.
 
----
+**Power BI · DAX · Power Query**  
+[Case study](https://github.com/HussieniGamal/Supply-Chain-PowerBI-Analysis) · [DAX examples](https://github.com/HussieniGamal/Supply-Chain-PowerBI-Analysis/blob/main/DAX_Measures.md)
 
-## 👨‍💻 About Me
+### 2. Repair & Return — Backlog and escalation priorities
+The anonymized snapshot tracks **177 items**, with **107 open cases** and **5 older than one year**. Connects aging, supplier follow-up, process bottlenecks, and stock exposure.
 
-I'm a **Data Analyst and Business Intelligence enthusiast** focused on transforming operational and business data into practical, decision-ready insights.
+**Power BI · DAX · Power Query · Data modeling documentation**  
+[Case study](https://github.com/HussieniGamal/PowerBi-Repair-Return-Operations-Dashboard) · [Model diagram](https://github.com/HussieniGamal/PowerBi-Repair-Return-Operations-Dashboard/blob/main/Images/17-Data-Model.png)
 
-My work combines **Power BI, Excel, SQL, and Python** to build analytical solutions for sales, operations, supply chain, healthcare, and business performance.
+### 3. Pharmacy Sales — Category and demand patterns
+Python analysis of **2,106 daily observations** across **8 drug categories**. The published findings identify a **49.4% sales-volume share for N02BE** and a peak average demand hour of **19:00**, supporting inventory and staffing hypotheses.
 
-I focus on the full analytics workflow:
+**Python · Pandas · NumPy · Matplotlib · Jupyter**  
+[Case study](https://github.com/HussieniGamal/Pharmacy-Sales-Analysis-Python) · [Notebook](https://github.com/HussieniGamal/Pharmacy-Sales-Analysis-Python/blob/main/notebook/pharmacy_sales_analysis.ipynb)
 
-- Data cleaning and transformation
-- Data modeling and KPI design
-- DAX and business logic
-- Exploratory data analysis
-- Interactive dashboard development
-- Insight generation and stakeholder recommendations
+*Figures describe the project datasets. Recommendations and decision support are not claims of measured savings, revenue uplift, or operational improvement.*
 
-I also bring a professional background in **pharmacy operations**, which helps me approach analytics from a real business and operational perspective.
+## More analytical work
 
----
+| Project | Business question | Review |
+|---|---|---|
+| HMC Hospital | Where should managers investigate patient volume and workload? | [1,000-case healthcare dashboard](https://github.com/HussieniGamal/HMC-Hospital-Dashboard) |
+| Younes Store | Which products, cities, and customer balances need follow-up? | [Retail sales and receivables](https://github.com/HussieniGamal/Younes-Store-Sales-Dashboard) |
+| Furniture Sales | Which customer segments and regions deserve commercial attention? | [Sales and customer mix](https://github.com/HussieniGamal/Furniture-Sales-Dashboard) |
 
-## 🛠️ Tech Stack
+## Skills shown in this portfolio
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI">
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel">
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-</p>
+- **Power BI and DAX:** KPI definitions, filter-aware calculations, inventory segmentation, operational reporting.
+- **Power Query and data modeling:** documented transformation workflow and relationships in the Repair & Return case study.
+- **Python:** data inspection, date features, aggregation, visualization, and correlation analysis in a readable notebook.
+- **Business analysis:** findings linked to recommended decisions, with explicit data limitations.
 
-<p align="center">
-  <img src="https://img.shields.io/badge/DAX-F2C811?style=for-the-badge" alt="DAX">
-  <img src="https://img.shields.io/badge/Power_Query-217346?style=for-the-badge" alt="Power Query">
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
-  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge" alt="Matplotlib">
-  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-</p>
+## Current development
 
----
+Advanced Power BI and DAX, SQL for analytics, and stronger validation and reproducibility across projects.
 
-## ⭐ Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🚚 Supply Chain Analysis Dashboard
-
-A six-page Power BI dashboard covering **sales, inventory, suppliers, manufacturing, and logistics**.
-
-**Highlights**
-- 100 SKU operational analysis
-- Revenue and sales performance
-- Stockout vs. overstock risk detection
-- Supplier lead time and quality analysis
-- Manufacturing performance
-- Shipping and route cost analysis
-- Business recommendations for stakeholders
-
-**Tools**
-
-`Power BI` `DAX` `Power Query` `Excel`
-
-<br>
-
-<a href="https://github.com/HussieniGamal/Supply-Chain-PowerBI-Analysis">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Supply Chain Project">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 💊 Pharmacy Sales Analysis
-
-Python exploratory analysis of multi-year pharmacy sales data to uncover commercial and operational patterns.
-
-**Highlights**
-- Data cleaning and preparation
-- Feature engineering
-- Monthly and yearly trends
-- Product category analysis
-- Weekday and hourly patterns
-- Correlation analysis
-- Business recommendations
-
-**Tools**
-
-`Python` `Pandas` `NumPy` `Matplotlib` `Jupyter`
-
-<br>
-
-<a href="https://github.com/HussieniGamal/Pharmacy-Sales-Analysis-Python">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Pharmacy Project">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🔧 Repair & Return Operations Dashboard
-
-Power BI solution for monitoring repair operations, turnaround times, bottlenecks, pending cases, and operational performance.
-
-**Highlights**
-- KPI tracking
-- Repair cycle analysis
-- Aging and bottleneck analysis
-- Forecast vs. actual performance
-- Supplier and department analysis
-- Interactive navigation and filters
-
-**Tools**
-
-`Power BI` `DAX` `Power Query` `Excel`
-
-<br>
-
-<a href="https://github.com/HussieniGamal/PowerBi-Repair-Return-Operations-Dashboard">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Repair and Return Project">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏥 HMC Hospital Dashboard
-
-Healthcare analytics dashboard focused on patient activity, departments, diagnoses, procedures, and hospital performance.
-
-**Highlights**
-- Patient analysis
-- Department performance
-- Diagnosis and procedure insights
-- Doctor and surgery analysis
-- Healthcare KPIs
-- Interactive reporting
-
-**Tools**
-
-`Power BI` `DAX` `Power Query` `Excel`
-
-<br>
-
-<a href="https://github.com/HussieniGamal/HMC-Hospital-Dashboard">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="HMC Project">
-</a>
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### 🛋️ Furniture Sales Dashboard
-
-Business intelligence dashboard analyzing furniture sales, regional performance, categories, and profitability.
-
-**Tools**
-
-`Power BI` `DAX` `Power Query` `Excel`
-
-<br>
-
-<a href="https://github.com/HussieniGamal/Furniture-Sales-Dashboard">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Furniture Project">
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🛒 Younes Store Sales Dashboard
-
-Retail analytics dashboard built to evaluate store performance, products, customers, and sales KPIs.
-
-**Tools**
-
-`Power BI` `DAX` `Power Query` `Excel`
-
-<br>
-
-<a href="https://github.com/HussieniGamal/Younes-Store-Sales-Dashboard">
-  <img src="https://img.shields.io/badge/View_Project-181717?style=for-the-badge&logo=github&logoColor=white" alt="Younes Store Project">
-</a>
-
-</td>
-</tr>
-</table>
-
----
-
-## 📊 What I Bring to Analytics Projects
-
-- Business-focused KPI design
-- Clean and user-friendly dashboards
-- Strong Power BI and Excel reporting
-- DAX-based analytical logic
-- Operational and performance analysis
-- Clear recommendations, not just visualizations
-- Data storytelling for stakeholders
-
----
-
-## 🎯 Current Focus
-
-- Advanced Power BI and DAX
-- SQL for analytics
-- Python for data analysis and automation
-- Data modeling
-- Microsoft Fabric
-- End-to-end BI portfolio projects
-
----
-
-## 🌐 Portfolio & Contact
-
-<p align="center">
-  <a href="https://sites.google.com/view/hussienigamal/home">
-    <img src="https://img.shields.io/badge/Portfolio-Hussieni_Gamal-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio">
-  </a>
-  <a href="https://www.linkedin.com/in/hussieni-gamal-549b68134/">
-    <img src="https://img.shields.io/badge/LinkedIn-Hussieni_Gamal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:hgtawil@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-</p>
-
----
-
-<p align="center">
-  <b>Open to Data Analyst, BI Analyst, Power BI, Reporting, and Operations Analytics opportunities.</b>
-</p>
-
-<p align="center">
-If you find a project useful, feel free to explore the repository and leave a ⭐
-</p>
+**Open to Data Analyst, BI Analyst, Power BI, Reporting, and Operations Analytics opportunities.**
